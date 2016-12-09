@@ -1,1 +1,2 @@
 # dielectric-polarization-processes
+Mathematica implementation of method of characteristics. This is a reference implementation for the results presented in the paper and serves as solution to partial differential equations describing polarization processes in continuous media. The plots of the paper are also in this document as well as a contrasting numeric approach. Equations being solved: Telegrapher's-Klein-Gordon-equation and a full equation with terms found in Telegraphers, Klein-Gordon, Kelvin-Voigt and Boussinesq equation.
